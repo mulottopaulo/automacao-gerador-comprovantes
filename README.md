@@ -17,6 +17,6 @@ Cada funcionário leva em média cerca de 10 minutos em todo o processo, que oco
 # Resultado
 Com a automação o processo passou a levar em média cerca de 2 minutos além de reduzir os erros humanos no momento do preenchimento.
 
-Isso leva a uma economia de 3840 minutos no ano. 
+## Isso leva a uma economia de 3840 minutos no ano. 
 
-A conta para este racional é: redução de 8 minutos por funcionário (10 minutos gastos antes da automação - 2 minutos gastos atualmente) * número de funcionários * 12 meses
+*A conta para este racional é: redução de 8 minutos por funcionário (10 minutos gastos antes da automação - 2 minutos gastos atualmente) * número de funcionários * 12 meses*
